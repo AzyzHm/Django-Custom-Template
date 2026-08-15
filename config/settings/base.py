@@ -2,6 +2,7 @@
 Base Django settings shared across all environments.
 Environment-specific settings (development, production, test) extend this file.
 """
+
 from pathlib import Path
 
 import environ

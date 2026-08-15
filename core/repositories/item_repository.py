@@ -5,6 +5,7 @@ This is the only layer permitted to run ORM queries directly. Services must
 go through the repository rather than touching the ORM themselves, keeping
 persistence concerns isolated from business logic.
 """
+
 from django.db.models import QuerySet
 
 from core.models import Item

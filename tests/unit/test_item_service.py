@@ -1,4 +1,5 @@
 """Unit tests for ItemService. The repository is mocked, so no database is touched."""
+
 from unittest.mock import MagicMock
 
 import pytest

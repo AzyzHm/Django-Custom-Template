@@ -1,4 +1,5 @@
 """End-to-end tests hitting the API exactly as a real client would, over HTTP."""
+
 import pytest
 from django.urls import reverse
 from rest_framework import status

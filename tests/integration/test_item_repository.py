@@ -1,4 +1,5 @@
 """Integration tests for ItemRepository. Exercises the real ORM against the test database."""
+
 import pytest
 
 from core.repositories.item_repository import ItemRepository

@@ -1,4 +1,5 @@
 """Test settings: fast, isolated, in-memory SQLite database."""
+
 from .base import *  # noqa: F401,F403
 
 DEBUG = False
