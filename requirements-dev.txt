@@ -1,13 +1,13 @@
 -r requirements.txt
 
-pytest==8.3.3
-pytest-django==4.9.0
-pytest-cov==5.0.0
-factory-boy==3.3.1
+pytest==9.1.1
+pytest-django==4.14.0
+pytest-cov==7.1.0
+factory-boy==3.3.3
 
-black==24.10.0
-ruff==0.6.9
-mypy==1.11.2
-django-stubs==5.1.0
+black==26.5.1
+ruff==0.16.2
+mypy==2.3.0
+django-stubs==6.0.9
 
-pre-commit==3.8.0
+pre-commit==4.6.2
