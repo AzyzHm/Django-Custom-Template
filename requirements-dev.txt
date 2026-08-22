@@ -6,8 +6,8 @@ pytest-cov==7.1.0
 factory-boy==3.3.3
 
 black==26.5.1
-ruff==0.16.2
-mypy==2.3.0
-django-stubs==6.0.9
+ruff==0.16.3
+mypy==2.3.1
+django-stubs==6.1.0
 
 pre-commit==4.6.2
