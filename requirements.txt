@@ -1,5 +1,5 @@
-Django==6.1
-djangorestframework==3.18.0
+Django==6.1.1
+djangorestframework==3.18.1
 django-environ==0.14.0
 psycopg[binary]==3.3.5
 gunicorn==26.2.0
