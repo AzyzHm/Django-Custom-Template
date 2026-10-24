@@ -6,7 +6,7 @@ pytest-cov==7.1.0
 factory-boy==3.3.3
 
 black==26.10.1
-ruff==0.17.0
+ruff==0.17.1
 mypy==2.4.0
 django-stubs==6.1.2
 
